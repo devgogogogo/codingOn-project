@@ -88,7 +88,7 @@
 
 ---
 
-## 📐 사용한 지표자료형ㅁ
+## 📐 사용한 지표자료형
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd" width="300" />
@@ -110,6 +110,7 @@
 - 이상 탐지 알고리즘 고도화
 - 배터리 관리 시스템(BMS) 적용 가능성 검토
 - 다양한 환경 조건(온도, 사용 패턴) 추가 분석
+
 
 
 
