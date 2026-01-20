@@ -83,16 +83,21 @@
 ## 📐 분석 흐름
 1. 데이터 로드 및 전처리  
 2. 결측치 / 이상치 검증
-<img width="500" height="500" alt="결측치" src="https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd" />
-4. 상관관계 분석 및 변수 중요도 확인
-  <img width="500" height="500" alt="상관관계 분석" src="https://github.com/user-attachments/assets/97876f0e-5a93-48a7-8b03-f7606da4777d" />
-
-6. 배터리 종류별 비교 분석  
-7. 개별 배터리 생애주기 정밀 분석  
-8. 위험 상승 임계 시점 도출  
+3. 상관관계 분석 및 변수 중요도 확인
+4. 배터리 종류별 비교 분석 
+5. 개별 배터리 생애주기 정밀 분석  
+6. 위험 상승 임계 시점 도출  
 
 ---
+---
+## 📐 사용한 지표자료형
+## 📐 사용한 지표자료형
 
+- [결측치 분포 시각화](https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd)
+- [상관관계 분석 히트맵](https://github.com/user-attachments/assets/97876f0e-5a93-48a7-8b03-f7606da4777d)
+- [전체 지표 자료형 시각화](https://github.com/user-attachments/assets/22d9fe2c-0a89-4b60-924e-f48835c06069)
+
+---
 ## 📌 결과 및 인사이트
 - 급속 충전 노출 횟수가 화재 위험 점수 상승과 가장 강한 연관성을 보임
 - 충전율 1.5C 이상 조건에서 위험 점수 급격히 증가
@@ -106,6 +111,3 @@
 - 이상 탐지 알고리즘 고도화
 - 배터리 관리 시스템(BMS) 적용 가능성 검토
 - 다양한 환경 조건(온도, 사용 패턴) 추가 분석
-
-
-
