@@ -83,7 +83,7 @@
 ## 📐 분석 흐름
 1. 데이터 로드 및 전처리  
 2. 결측치 / 이상치 검증
-<img width="944" height="546" alt="결측치" src="https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd" />
+<img width="500" height="500" alt="결측치" src="https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd" />
 4. 상관관계 분석 및 변수 중요도 확인
   <img width="1118" height="1027" alt="상관관계 분석" src="https://github.com/user-attachments/assets/97876f0e-5a93-48a7-8b03-f7606da4777d" />
 
@@ -106,4 +106,5 @@
 - 이상 탐지 알고리즘 고도화
 - 배터리 관리 시스템(BMS) 적용 가능성 검토
 - 다양한 환경 조건(온도, 사용 패턴) 추가 분석
+
 
