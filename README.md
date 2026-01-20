@@ -89,13 +89,14 @@
 6. 위험 상승 임계 시점 도출  
 
 ---
----
-## 📐 사용한 지표자료형
+
 ## 📐 사용한 지표자료형
 
-- [결측치 분포 시각화](https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd)
-- [상관관계 분석 히트맵](https://github.com/user-attachments/assets/97876f0e-5a93-48a7-8b03-f7606da4777d)
-- [전체 지표 자료형 시각화](https://github.com/user-attachments/assets/22d9fe2c-0a89-4b60-924e-f48835c06069)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b70cd3d-d158-4ca6-88a8-94f52547c1fd" width="300" />
+  <img src="https://github.com/user-attachments/assets/97876f0e-5a93-48a7-8b03-f7606da4777d" width="300" />
+  <img src="https://github.com/user-attachments/assets/22d9fe2c-0a89-4b60-924e-f48835c06069" width="300" />
+</p>
 
 ---
 ## 📌 결과 및 인사이트
@@ -111,3 +112,4 @@
 - 이상 탐지 알고리즘 고도화
 - 배터리 관리 시스템(BMS) 적용 가능성 검토
 - 다양한 환경 조건(온도, 사용 패턴) 추가 분석
+
